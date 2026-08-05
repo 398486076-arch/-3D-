@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <DisableAppHostCetCompat>true</DisableAppHostCetCompat>
+    <CETCompatible>false</CETCompatible>
+    <EnableAppHostCetCompat>false</EnableAppHostCetCompat>
+  </PropertyGroup>
+</Project>
