@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "url": "https://example.com/T0Prototype/latest.zip",
+  "notes": "当前已是最新版本。以后出新版时：把 version 改成新版本号（比如 1.0.1），把 url 换成新版下载链接，notes 换成这次更新了啥，再重新上传覆盖这个文件就行。"
+}
